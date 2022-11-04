@@ -66,7 +66,7 @@ public class Main {
         if (sittingPlace > passengers) {
             System.out.println("Ещё остались сидячие места.");
         } else {
-            System.out.println("Вагон уже полностью забит");
+            System.out.println("Вагон уже полностью забит.");
         }
 
 
